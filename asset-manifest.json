@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://hayashi134.github.io/csb-vx6c8n/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://hayashi134.github.io/csb-vx6c8n/static/js/main.15d09bc9.chunk.js",
+    "main.js.map": "https://hayashi134.github.io/csb-vx6c8n/static/js/main.15d09bc9.chunk.js.map",
+    "runtime-main.js": "https://hayashi134.github.io/csb-vx6c8n/static/js/runtime-main.4b15b604.js",
+    "runtime-main.js.map": "https://hayashi134.github.io/csb-vx6c8n/static/js/runtime-main.4b15b604.js.map",
+    "static/js/2.82ca5ad2.chunk.js": "https://hayashi134.github.io/csb-vx6c8n/static/js/2.82ca5ad2.chunk.js",
+    "static/js/2.82ca5ad2.chunk.js.map": "https://hayashi134.github.io/csb-vx6c8n/static/js/2.82ca5ad2.chunk.js.map",
+    "index.html": "https://hayashi134.github.io/csb-vx6c8n/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://hayashi134.github.io/csb-vx6c8n/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.82ca5ad2.chunk.js.LICENSE.txt": "https://hayashi134.github.io/csb-vx6c8n/static/js/2.82ca5ad2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b15b604.js",
+    "static/js/2.82ca5ad2.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.15d09bc9.chunk.js"
+  ]
+}
